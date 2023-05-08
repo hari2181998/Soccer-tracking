@@ -1,4 +1,4 @@
-# SoccerNet - Tracking
+# SoccerNet - Detection & Tracking
 
 
 
